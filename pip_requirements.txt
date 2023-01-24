@@ -5,3 +5,8 @@ scikit-learn
 numpy
 pandas
 scipy
+matplotlib
+numexpr
+Pillow
+protobuf
+psutil
