@@ -10,3 +10,4 @@ numexpr
 Pillow
 protobuf
 psutil
+transformers
