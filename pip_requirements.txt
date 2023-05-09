@@ -11,3 +11,4 @@ Pillow
 protobuf
 psutil
 transformers
+conda
